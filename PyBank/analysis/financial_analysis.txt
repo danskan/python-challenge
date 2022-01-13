@@ -1,0 +1,7 @@
+Financial Analysis
+-----------------------------------------
+The Gross Annual Profit is $38382578
+Gross profit was earned over 86 months
+The Average Price Per Month is $446309.05
+The Worst Month on Record is Sep-2013 had a profit of $-1196225
+There were 12 months with negative profit
